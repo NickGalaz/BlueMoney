@@ -1,0 +1,6 @@
+                    
+                    A la fecha: Fri Feb 18 2022 22:35:26 GMT-0300 (hora de verano de Chile) 
+                    Fue realizada cotización con los siguientes datos: 
+                    Cantidad de pesos a convertir: 1422 pesos 
+                    Convertido a "dolar" da un total de: 
+                    $1.78
